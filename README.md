@@ -1,4 +1,4 @@
-# 💼 Profile Card
+<h1 align="center">💼 Profile Card</h1>
 
 <p align="center">
   <img src="./FinishedCard.png" alt="Profile Card Preview" width="300"/>
