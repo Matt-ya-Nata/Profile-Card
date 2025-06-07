@@ -28,7 +28,6 @@ A simple and modern **Profile Card** built using **HTML** and **CSS**. It showca
 ---
 
 ## 📂 File Structure
-## 📂 File Structure
 
 ```text
 /profile-card/
